@@ -4,9 +4,9 @@ import ItemCount from '../ItemCount';
 import ItemList from '../ItemList';
 
 const films = [
-    { id: 1, image: "https://logos-world.net/wp-content/uploads/2020/06/Assassins-Creed-Logo.png", title: "Assasin creed 1" },
-    { id: 2, image: "https://logos-world.net/wp-content/uploads/2020/06/Assassins-Creed-Logo.png", title: "Assasin creed 2" },
-    { id: 3, image: "https://logos-world.net/wp-content/uploads/2020/06/Assassins-Creed-Logo.png", title: "Assasin creed 3" },
+    { id: 1, image: "https://logos-world.net/wp-content/uploads/2020/06/Assassins-Creed-Logo.png", title: "Assasin creed" },
+    { id: 2, image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Simvol-iz-dishonored.svg/2036px-Simvol-iz-dishonored.svg.png", title: "Dishonored" },
+    { id: 3, image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Blasphemous_logo.png", title: "Blasphemus" },
 
 ];
 
