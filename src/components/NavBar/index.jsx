@@ -7,7 +7,7 @@ export const NavBar = () => {
         <div className="container">
             <nav className="nav">
                 <div className="nav__brand">
-                    <NavLink className="nav__link" to='/'>Mi Marca</NavLink>
+                    <NavLink className="nav__link" to='/'>Gunhild</NavLink>
                 </div>
                 <ul className="nav__list">
                     <li>
